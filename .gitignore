@@ -1,0 +1,8 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+/UI-Generator/.idea/
+/UI-Generator/out/
